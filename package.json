@@ -1,18 +1,18 @@
 {
-  "name": "node-stickynotes",
-  "version": "2.0.0",
-  "description": "Notes in the Cloud using Node.js, Express.js, Web Sockets (Faye), Redis and a Bootstrap Admin Interface",
+  "name": "rethinkdb-notes",
+  "version": "1.0.0",
+  "description": " Real-time Notes in the Cloud using Node.js, Express.js & RethinkDB",
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com:tiepologian/node-stickynotes.git"
+    "url": "git://github.com:tiepologian/rethinkdb-notes.git"
   },
   "author": "Gianluca Tiepolo",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/tiepologian/node-stickynotes/issues"
+    "url": "https://github.com/tiepologian/rethinkdb-notes/issues"
   },
-  "homepage": "https://github.com/tiepologian/node-stickynotes",
+  "homepage": "https://github.com/tiepologian/rethinkdb-notes",
   "dependencies": {
    "express": "*",
    "ejs": "*",
